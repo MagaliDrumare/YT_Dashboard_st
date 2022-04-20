@@ -16,4 +16,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.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}}
-        run: git push --force https://Magali:$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@huggingface.co/spaces/Magali/YT_Dashboard main
+        run: git push --force https://Magali:$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@huggingface.co/spaces/YT_Dashboard  main
