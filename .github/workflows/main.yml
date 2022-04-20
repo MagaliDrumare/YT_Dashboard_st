@@ -15,5 +15,5 @@ jobs:
           fetch-depth: 0
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.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}}
-        run: git push --force https://Magali:$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@huggingface.co/spaces/Magali/YT_Dashboard/tree/main
+          HF_TOKEN: ${{ secrets.HF_NCPVFhRpflCvoNjVdhZAoyAXMrWmejgnuS }}
+        run: git push --force https://Magali:$HF_TOKEN@huggingface.co/spaces/Magali/YT_Dashboard main
