@@ -1,3 +1,15 @@
+
+---
+title: YT_Dashboard
+emoji: 🚀
+colorFrom: yellow
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.2.0
+app_file: app.py
+pinned: false
+---
+
 # Data Science Portfolio Project from Scratch: YouTube Data Dashboard 
 Dashboard Link: https://share.streamlit.io/playingnumbers/yt_dashboard_st/main/Ken_Dashboard.py
 
